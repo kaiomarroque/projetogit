@@ -2,3 +2,5 @@ nome
 senha
 data
 email
+repita senha
+repita email
